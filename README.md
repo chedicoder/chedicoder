@@ -2,9 +2,9 @@
 
 
 - My name is Chedi Ghribi ✨ 
-- 🔭 I’m currently a Network & Telecommunication Engineering Student  ...
-- 🌱  Devops and CyberSecurity Enthusiast 
-- 👯 I’m currently making Web Developpement projects and migrating them to the cloud domain 
+- 💼 I am a DevOps Engineer
+- 🎓 INSAT Alumni — Network & Telecommunications Engineering
+- 🌱  DevOps and CyberSecurity Enthusiast
 
 <h2 align="center">
     <b>How to reach me 😁</b>
