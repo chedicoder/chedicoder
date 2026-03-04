@@ -4,7 +4,7 @@
 - My name is Chedi Ghribi ✨ 
 - 💼 I am a DevOps Engineer
 - 🎓 INSAT Alumni — Network & Telecommunications Engineering
-- 🌱  DevOps and CyberSecurity Enthusiast
+- 🌱  DevSecOps and CyberSecurity Enthusiast
 
 <h2 align="center">
     <b>How to reach me 😁</b>
