@@ -10,7 +10,6 @@
     <b>How to reach me 😁</b>
 </h2>
 <p align="center"><a href="https://www.linkedin.com/in/chedi-ghribi" ><img src='https://i.imgur.com/vyL2VRi.png' alt='linkedin' height='40' ></a>
-<a href="https://www.facebook.com/chadi.ghribi" align="center" ><img src='https://i.imgur.com/wdFw6N0.png' alt='linkedin' height='40' ></a>
 <a href="mailto:chedi.ghribi@outlook.com" align="center" ><img src='https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' height='40'></a>
  
 
